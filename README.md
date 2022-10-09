@@ -19,5 +19,5 @@ Repositório criado para verificar o desenvolvimento dos desafios durante o curs
  - Aqui nós podemos aprimorar alguns dos comandos básicos no Git/GitHub, Typora e Markdown criando um Livro de Receitas.
  - Sincronizando o VSCode com GitHub.
 
-**3.** Java Anatomia Classes
+**3.** Java Anatomia das Classes
 
