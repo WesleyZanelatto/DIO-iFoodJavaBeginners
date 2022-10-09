@@ -1,3 +1,4 @@
+package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
 public class _3_1$MinhaClasse {
     
 public static void main(String[] args) {

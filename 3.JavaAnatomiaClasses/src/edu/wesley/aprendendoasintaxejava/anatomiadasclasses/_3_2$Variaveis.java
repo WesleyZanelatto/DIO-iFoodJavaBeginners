@@ -1,3 +1,4 @@
+package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
 public class _3_2$Variaveis {
     public static void main(String[] args) {
         
