@@ -13,10 +13,10 @@ Repositório criado para verificar o desenvolvimento dos desafios durante o curs
 ##  - Tópicos
 
 **1.** Desafio  Git/GitHub criando o primeiro repositório
-  - Aprendemos os comandos básicos no Git e GitHub.
+  - Aprendemos os comandos básicos no Git/GitHub, Typora e Markdown.
   
 **2.** Desafio Git/GitHub Livro de Receitas
- - Aqui nós podemos fixar os comandos básico do Git e GitHub.
+ - Aqui nós podemos aprimorar alguns dos comandos básicos no Git/GitHub, Typora e Markdown.
  
 **3.** Java Anatomia Classes
 
