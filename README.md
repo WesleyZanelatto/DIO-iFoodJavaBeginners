@@ -9,15 +9,17 @@ Repositório criado para verificar o desenvolvimento dos desafios durante o curs
 
 [ - Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+[ - Alguns Atalhos do teclado para VSCode](https://cristianefaria.com/atalhos-visual-studio-code/)
+
 
 ##  - Tópicos
 
-**1.** Desafio  Git/GitHub criando o primeiro repositório
+[**1.** Desafio  Git/GitHub criando o primeiro repositório](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/1.DesafioGithubPrimeiroRepositorio)
   - Aprendemos os comandos básicos no Git/GitHub, Typora e Markdown.
 
-**2.** Desafio Git/GitHub 
+[**2.** Desafio Git/GitHub ](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/2.LivroReceitas)
  - Aqui nós podemos aprimorar alguns dos comandos básicos no Git/GitHub, Typora e Markdown criando um Livro de Receitas.
  - Sincronizando o VSCode com GitHub.
 
-**3.** Java Anatomia Classes
+[**3.** Java Anatomia das Classes](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/3.JavaAnatomiaClasses)
 
