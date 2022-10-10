@@ -19,10 +19,6 @@ Repositório criado para verificar o desenvolvimento dos desafios durante o curs
 
 [**2.** Desafio Git/GitHub ](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/2.LivroReceitas)
  - Aqui nós podemos aprimorar alguns dos comandos básicos no Git/GitHub, Typora e Markdown criando um Livro de Receitas.
-
  - Sincronizando o VSCode com GitHub.
 
-   ​
-
-[**3.** Java Anatomia das Classes](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/3.JavaAnatomiaClasses)
-=======
+[**3.** Anatomia das Classes](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
