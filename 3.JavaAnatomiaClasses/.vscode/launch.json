@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch _3_4$Usuario",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.metodos._3_4$Usuario",
+            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+        },
+        {
+            "type": "java",
             "name": "Launch _3_9$Logicos",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_9$Logicos",
