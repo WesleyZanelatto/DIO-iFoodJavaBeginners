@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_9$Logicos {
+public class _9_Logicos {
     public static void main(String[] args) {
         /*
          * Os operadores lógicos, representam o recurso que nos permite criar expressões

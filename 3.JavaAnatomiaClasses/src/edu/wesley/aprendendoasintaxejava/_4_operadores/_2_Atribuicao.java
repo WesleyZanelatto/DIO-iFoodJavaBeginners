@@ -1,8 +1,8 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
 import java.util.Date;
 
-public class _3_2$Atribuicao {
+public class _2_Atribuicao {
     public static void main(String[] args) {
         /*
          * Representado pelo símbolo de igualdade "=".

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_8$ComparacoesAvancadas {
+public class _8_ComparacoesAvancadas {
     public static void main(String[] args) {
         /*
          * Quando se refere a comparação de conteúdos na linguagem, devemos ter um certo

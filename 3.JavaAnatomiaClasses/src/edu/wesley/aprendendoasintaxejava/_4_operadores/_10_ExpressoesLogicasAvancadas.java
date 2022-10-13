@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_10$ExpressoesLogicasAvancadas {
+public class _10_ExpressoesLogicasAvancadas {
     public static void main(String[] args) {
         /*
          * Nós acabamos de aprender que existem os operadores lógicos "&"(E) e "||"

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_3$Aritmeticos {
+public class _3_Aritmeticos {
     public static void main(String[] args) {
         /*
          * O operador aritmético, é utilizado para realizar operações matemáticas entre

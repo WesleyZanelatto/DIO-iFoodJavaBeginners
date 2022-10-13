@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_7$Relacionais {
+public class _7_Relacionais {
     public static void main(String[] args) {
         /*
          * Os operadores relacionais, avaliam a relação entre duas variáveis ou

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_1$Operadores {
+public class _1_Operadores {
     public static void main(String[] args) {
 
         //LINK: https://glysns.gitbook.io/java-basico/sintaxe/operadores#comparacoes-avancadas

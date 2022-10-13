@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_5$Unarios {
+public class _5_Unarios {
     public static void main(String[] args) {
         /*
          * Esses operadores, são aplicados juntamente com um outro operador aritmético.

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_4$Concatenacao {
+public class _4_Concatenacao {
     public static void main(String[] args) {
 
         String nomeCompleto = "LINGUAGEM" + "JAVA";

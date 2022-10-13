@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.operadores;
+package edu.wesley.aprendendoasintaxejava._4_operadores;
 
-public class _3_6$Ternario {
+public class _6_Ternario {
     public static void main(String[] args) {
         /*
          * O operador de condição ternária é uma forma resumida para definir uma
