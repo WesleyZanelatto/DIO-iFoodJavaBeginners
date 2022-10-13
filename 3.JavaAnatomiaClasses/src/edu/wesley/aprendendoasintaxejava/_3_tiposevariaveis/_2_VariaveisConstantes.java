@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.tiposevariaveis;
+package edu.wesley.aprendendoasintaxejava._3_tiposevariaveis;
 
-public class _3_2_VariaveisConstantes {
+public class _2_VariaveisConstantes {
     public static void main(String[] args) {
         /*
          * Variáveis e Constantes

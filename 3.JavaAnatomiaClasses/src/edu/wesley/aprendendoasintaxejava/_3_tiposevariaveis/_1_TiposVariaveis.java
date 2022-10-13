@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.tiposevariaveis;
+package edu.wesley.aprendendoasintaxejava._3_tiposevariaveis;
 
-public class _3_1_TiposVariaveis {
+public class _1_TiposVariaveis {
     public static void main (String[] args){
 
         //Link: https://glysns.gitbook.io/java-basico/sintaxe/variaveis
