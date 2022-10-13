@@ -1,12 +1,12 @@
-package edu.wesley.aprendendoasintaxejava.metodos;
+package edu.wesley.aprendendoasintaxejava._5_metodos;
 
 import java.util.Scanner;
 
-public class _3_4$Usuario {
+public class _4_Usuario {
     public static void main(String[] args) {
         
         // Instanciando a classe _3_3$SmartTv para o objeto smartTv
-        _3_3$SmartTv smartTv = new _3_3$SmartTv(); 
+        _3_SmartTv smartTv = new _3_SmartTv(); 
 
         Scanner ler = new Scanner(System.in);
 

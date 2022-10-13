@@ -1,8 +1,8 @@
-package edu.wesley.aprendendoasintaxejava.metodos;
+package edu.wesley.aprendendoasintaxejava._5_metodos;
 
 import java.util.Scanner;
 
-public class _3_3$SmartTv {
+public class _3_SmartTv {
         /*
          * Vamos criar um exemplo de uma classe para representar uma SmartTV onde:
          

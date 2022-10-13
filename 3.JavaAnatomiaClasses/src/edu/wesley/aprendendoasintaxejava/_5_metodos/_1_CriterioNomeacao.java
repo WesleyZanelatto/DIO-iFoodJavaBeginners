@@ -1,4 +1,4 @@
-package edu.wesley.aprendendoasintaxejava.metodos;
+package edu.wesley.aprendendoasintaxejava._5_metodos;
 
 public class _3_1$criterioNomeacao {
     public static void main(String[] args) {
