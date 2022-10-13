@@ -1,4 +1,4 @@
-package edu.wesley.aprendendoasintaxejava.javadoc;
+package edu.wesley.aprendendoasintaxejava._8_javadoc;
 
 public class _3_3$TiposDeComentarios {
     //*Uma linha

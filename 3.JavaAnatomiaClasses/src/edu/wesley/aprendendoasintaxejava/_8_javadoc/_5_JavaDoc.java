@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.javadoc;
+package edu.wesley.aprendendoasintaxejava._8_javadoc;
 
-public class _3_4$JavaDoc {
+public class _5_JavaDoc {
     /*
      * Javadoc é um gerador de documentação criado pela Sun Microsystems , para
      * documentar a API dos programas em Java, a partir do código-fonte. O resultado

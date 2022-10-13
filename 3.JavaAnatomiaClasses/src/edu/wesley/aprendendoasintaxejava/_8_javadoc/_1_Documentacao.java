@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.javadoc;
+package edu.wesley.aprendendoasintaxejava._8_javadoc;
 
-public class _3_1$Documentacao {
+public class _1_Documentacao {
 
     /*LINK: https://glysns.gitbook.io/java-basico/sintaxe/documentacao
      *

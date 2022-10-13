@@ -1,4 +1,4 @@
-package edu.wesley.aprendendoasintaxejava.javadoc;
+package edu.wesley.aprendendoasintaxejava._8_javadoc;
 /**
     * <h1>Calculadora</h1>
     * A Calculadora realiza operações matemáticas entre números inteiros
@@ -12,7 +12,7 @@ package edu.wesley.aprendendoasintaxejava.javadoc;
 */
 
 //Colocar a seta de navegação do mouse em cima do nome da Classe para mostrar as informações.
-public class _3_2_1$Calculadora {
+public class _3_Calculadora {
         
      /**
      * Este método é utilizado para somar dois números inteiros

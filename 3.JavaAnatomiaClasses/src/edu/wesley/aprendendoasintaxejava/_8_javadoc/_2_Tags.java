@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.javadoc;
+package edu.wesley.aprendendoasintaxejava._8_javadoc;
 
-public class _3_2_0$Tags {
+public class _2_Tags {
     /*
      * Tags
      * Mas e quais as informações, que obtemos através de classes documentadas, na
