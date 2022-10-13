@@ -6,38 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch _3_1_1$MinhaClasse",
+            "name": "Launch _5_ScannerAboutMe",
             "request": "launch",
-            "mainClass": "edu.wesley.aprendendoasintaxejava.terminalargumentos._3_1_1$MinhaClasse",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
-        },
-        {
-            "type": "java",
-            "name": "Launch MinhaClasse",
-            "request": "launch",
-            "mainClass": "edu.wesley.aprendendoasintaxejava.terminalargumentos.MinhaClasse",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
-        },
-        {
-            "type": "java",
-            "name": "Launch _3_4$Usuario",
-            "request": "launch",
-            "mainClass": "edu.wesley.aprendendoasintaxejava.metodos._3_4$Usuario",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
-        },
-        {
-            "type": "java",
-            "name": "Launch _3_9$Logicos",
-            "request": "launch",
-            "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_9$Logicos",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
-        },
-        {
-            "type": "java",
-            "name": "Launch _3_8$ComparacoesAvancadas",
-            "request": "launch",
-            "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_8$ComparacoesAvancadas",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "mainClass": "edu.wesley.aprendendoasintaxejava._9_terminalargumentos._5_ScannerAboutMe",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df",
         },
         {
             "type": "java",
@@ -47,108 +19,172 @@
         },
         {
             "type": "java",
+            "name": "Launch _2_MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava._9_terminalargumentos._2_MinhaClasse",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _4_ArgumentosAboutMe",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava._9_terminalargumentos._4_ArgumentosAboutMe",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df",
+            "args": ["Wesley","Zanelatto","37","1.68"]
+        },
+        {
+            "type": "java",
             "name": "Launch _3_1$MinhaClasse",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_1$MinhaClasse",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_2$Variaveis",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_2$Variaveis",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_3$Metodos",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_3$Metodos",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_4$Identacao",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_4$Identacao",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_5_Packages",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_5_Packages",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_6_JavaBeans",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.anatomiadasclasses._3_6_JavaBeans",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_2$Usuario",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.escopo._3_2$Usuario",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_1$criterioNomeacao",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.metodos._3_1$criterioNomeacao",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_2$criterioDefinicao",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.metodos._3_2$criterioDefinicao",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_4$Usuario",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.metodos._3_4$Usuario",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_1$Operadores",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_1$Operadores",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_10$ExpressoesLogicasAvancadas",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_10$ExpressoesLogicasAvancadas",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_2$Atribuicao",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_2$Atribuicao",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_3$Aritmeticos",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_3$Aritmeticos",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_4$Concatenacao",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_4$Concatenacao",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_5$Unarios",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_5$Unarios",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_6$Ternario",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_6$Ternario",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_7$Relacionais",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_7$Relacionais",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_8$ComparacoesAvancadas",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_8$ComparacoesAvancadas",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch _3_9$Logicos",
+            "request": "launch",
+            "mainClass": "edu.wesley.aprendendoasintaxejava.operadores._3_9$Logicos",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_1_TiposVariaveis",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.tiposevariaveis._3_1_TiposVariaveis",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         },
         {
             "type": "java",
             "name": "Launch _3_2_VariaveisConstantes",
             "request": "launch",
             "mainClass": "edu.wesley.aprendendoasintaxejava.tiposevariaveis._3_2_VariaveisConstantes",
-            "projectName": "3.JavaAnatomiaClasses_54b522a3"
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
         }
     ]
 }
