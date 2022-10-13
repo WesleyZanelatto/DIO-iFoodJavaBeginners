@@ -1,4 +1,4 @@
-package edu.wesley.aprendendoasintaxejava.palavrasreservadas;
+package edu.wesley.aprendendoasintaxejava._7_palavrasreservadas;
 
 public class _3_1$PalavrasReservadas {
     //LINK: https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas
