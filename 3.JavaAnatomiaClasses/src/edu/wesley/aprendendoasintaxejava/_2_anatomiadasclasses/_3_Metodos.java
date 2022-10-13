@@ -1,5 +1,5 @@
-package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
-public class _3_3$Metodos {
+package edu.wesley.aprendendoasintaxejava._2_anatomiadasclasses;
+public class _3_Metodos {
     public static void main(String[] args) {
         
         String primeiroNome = "Wesley";

@@ -1,5 +1,5 @@
-package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
-public class _3_1$MinhaClasse {
+package edu.wesley.aprendendoasintaxejava._2_anatomiadasclasses;
+public class _1_MinhaClasse {
     
 public static void main(String[] args) {
     System.out.print ("Olá turma, sejam bem-vindos!");

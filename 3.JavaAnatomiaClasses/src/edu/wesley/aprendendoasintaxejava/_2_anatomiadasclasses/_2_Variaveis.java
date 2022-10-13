@@ -1,5 +1,5 @@
-package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
-public class _3_2$Variaveis {
+package edu.wesley.aprendendoasintaxejava._2_anatomiadasclasses;
+public class _2_Variaveis {
     public static void main(String[] args) {
         
         /*Caso seja atribuido o nome "final" na frente do tipo da variável, significa que essa variável 

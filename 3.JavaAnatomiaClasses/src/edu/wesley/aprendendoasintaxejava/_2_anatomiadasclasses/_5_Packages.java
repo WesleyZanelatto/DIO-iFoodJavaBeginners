@@ -1,5 +1,5 @@
-package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
-public class _3_5_Packages {
+package edu.wesley.aprendendoasintaxejava._2_anatomiadasclasses;
+public class _5_Packages {
     public static void main(String[] args) {
         /*
          * Organizando arquivos - Packages

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.anatomiadasclasses;
+package edu.wesley.aprendendoasintaxejava._2_anatomiadasclasses;
 
-public class _3_6_JavaBeans {
+public class _6_JavaBeans {
     public static void main(String[] args) {
         /*
            Link: https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
