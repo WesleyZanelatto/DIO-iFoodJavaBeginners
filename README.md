@@ -27,17 +27,19 @@ Repositório criado para verificar o desenvolvimento dos desafios durante o curs
 
 - Apresentar as regras essesnciais para a construção de códigos com base na linguagem Java.
 
-- Assuntos: Estrutura inicial; 
+- Assuntos: 
 
-   		   Padrão de nomenclatura;
+  ​      Estrutura inicial; 
+
+  ​		   Padrão de nomenclatura;
 
   ​		   Declarando variáveis e métodos;
 
   ​		   Identação;
 
-  ​		  Organizando arquivos;
+  ​		   Organizando arquivos;
 
-   		  Java Beans.		   
+  ​ 	   Java Beans.		   
 
 [3.2.Anatomia das Classes](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/3.JavaAnatomiaClasses/src/edu/wesley/aprendendoasintaxejava/_2_anatomiadasclasses)
 
