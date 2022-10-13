@@ -1,13 +1,13 @@
-package edu.wesley.aprendendoasintaxejava.escopo;
+package edu.wesley.aprendendoasintaxejava._6_escopo;
 
 import java.util.Scanner;
 
-public class _3_2$Usuario {
+public class _3_Usuario {
     public static void main(String[] args) {
         
         Scanner ler = new Scanner(System.in);
 
-        _3_2$Conta conta = new _3_2$Conta();
+        _2_Conta conta = new _2_Conta();
 
         //Verificando Saldo
         conta.imprimirSaldo();

@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.escopo;
+package edu.wesley.aprendendoasintaxejava._6_escopo;
 
-public class _3_1$Escopo {
+public class _1_Escopo {
     
         /*
          * O escopo pode ser entendido como,o ambiente onde uma variável pode ser

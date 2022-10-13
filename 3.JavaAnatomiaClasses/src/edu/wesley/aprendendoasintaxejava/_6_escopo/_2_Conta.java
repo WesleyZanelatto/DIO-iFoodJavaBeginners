@@ -1,6 +1,6 @@
-package edu.wesley.aprendendoasintaxejava.escopo;
+package edu.wesley.aprendendoasintaxejava._6_escopo;
 
-public class _3_2$Conta {
+public class _2_Conta {
     //variaveis global da classe conta
     double saldo=10.0;
     //double novoSaldo;
