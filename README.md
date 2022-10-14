@@ -19,10 +19,7 @@ Este repositório foi criado para verificar o desenvolvimento dos desafios duran
 [**2.** Desafio Git/GitHub Livro de Receitas](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_2_livroreceitas)
  - Fixação dos comandos básicos do Git, GitHub, Typora e Markdown.
 
-   ​
-
-   [**3.Anatomia das Classes Java**](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_3_javaanatomiaclasses/aprendendoasintaxejava)
-
+[**3.Anatomia das Classes Java**](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_3_javaanatomiaclasses/aprendendoasintaxejava)
 
 [ 3.1.Introdução](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_3_javaanatomiaclasses/aprendendoasintaxejava/_1_introducao)
 
@@ -30,22 +27,18 @@ Este repositório foi criado para verificar o desenvolvimento dos desafios duran
 
 - Assuntos: 
 
-    ​		   Estrutura inicial; 
+    ​		  Estrutura inicial; 
 
-    ```
-       Padrão de nomenclatura;
-    ```
+    ​	    Padrão de nomenclatura;
+    
+    ​		  Declarando variáveis e métodos;
 
-    ​		   Declarando variáveis e métodos;
-
-    ​		   Identação;
+    ​		  Identação;
 
     ​		  Organizando arquivos;
 
-    ```
-    	  Java Beans.		   
-    ```
-
+    ​	 	  Java Beans.		   
+    
 [3.2.Anatomia das Classes](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_3_javaanatomiaclasses/aprendendoasintaxejava/_2_anatomiadasclasses)
 
 - Padrão de nomenclatura
