@@ -1,6 +1,6 @@
-#DIO - iFoodJavaBeginners:man_student:
+# DIO - iFoodJavaBeginners:man_student:
 
-###Este repositório foi criado para verificar o desenvolvimento dos desafios durante este curso. 
+### Este repositório foi criado para verificar o desenvolvimento dos desafios durante este curso. 
 
 ##  - Links Úteis 
 
