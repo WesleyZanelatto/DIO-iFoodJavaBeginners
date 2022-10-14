@@ -1,4 +1,6 @@
-Este repositório foi criado para verificar o desenvolvimento dos desafios durante este curso.
+#DIO - iFoodJavaBeginners:man_student:
+
+###Este repositório foi criado para verificar o desenvolvimento dos desafios durante este curso. 
 
 ##  - Links Úteis 
 
@@ -30,7 +32,7 @@ Este repositório foi criado para verificar o desenvolvimento dos desafios duran
     ​		  Estrutura inicial; 
 
     ​	    Padrão de nomenclatura;
-    
+
     ​		  Declarando variáveis e métodos;
 
     ​		  Identação;
@@ -38,7 +40,7 @@ Este repositório foi criado para verificar o desenvolvimento dos desafios duran
     ​		  Organizando arquivos;
 
     ​	 	  Java Beans.		   
-    
+
 [3.2.Anatomia das Classes](https://github.com/WesleyZanelatto/DIO-iFoodJavaBeginners/tree/master/src/edu/wesley/_3_javaanatomiaclasses/aprendendoasintaxejava/_2_anatomiadasclasses)
 
 - Padrão de nomenclatura
