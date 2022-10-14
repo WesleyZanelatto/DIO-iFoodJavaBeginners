@@ -9,6 +9,13 @@
             "name": "Launch OperadoresRelacionais",
             "request": "launch",
             "mainClass": "edu.wesley._4_logicacondicionalcontroledefluxos._1_operadoresrelacionais.OperadoresRelacionais",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "edu.wesley._4_logicacondicionalcontroledefluxos._1_operadoresrelacionais.OperadoresRelacionais",
             "projectName": "Cópia de Segurança_d5e66b06"
         },
         {
