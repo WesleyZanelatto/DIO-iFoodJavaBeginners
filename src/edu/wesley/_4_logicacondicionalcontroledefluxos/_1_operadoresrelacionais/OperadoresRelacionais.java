@@ -1,5 +1,19 @@
 package edu.wesley._4_logicacondicionalcontroledefluxos._1_operadoresrelacionais;
 
+/**
+    * <h1>Operadores Relacionais</h1>
+    * Operadores relacionais são utilizados para comparar valores, o resultado de uma expressão 
+    * relacional é um valor booleano (VERDADEIRO ou FALSO). Os operadores relacionais são: igual, 
+    * diferente, maior, menor, maior ou igual, menor ou igual.
+    * <p>
+    * <b>Note:</b> Leia atentamente a documentação desta classe
+    * para desfrutar dos recursos oferecidos pelo autor.
+    *
+    * @author  Wesley Zanelatto
+    * @version 1.0
+    * @since   15/10/2022
+*/
+
 public class OperadoresRelacionais{
     public static void main(String[] args) {
         
