@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch _1_ControleDeFluxo",
+            "request": "launch",
+            "mainClass": "edu.wesley._4_logicacondicionalcontroledefluxos._3_controledefluxo._1_ControleDeFluxo",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
             "name": "Launch OperadoresLogicos",
             "request": "launch",
             "mainClass": "edu.wesley._4_logicacondicionalcontroledefluxos._2_operadoreslogicos.OperadoresLogicos",
