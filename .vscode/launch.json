@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "edu.wesley._5_estruturaderepeticaoearraysemjava._1_estruturaderepeticao.Ex6_Fatorial",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMédia",
+            "request": "launch",
+            "mainClass": "edu.wesley._5_estruturaderepeticaoearraysemjava._1_estruturaderepeticao.Ex3_MaiorEMédia",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Nota",
+            "request": "launch",
+            "mainClass": "edu.wesley._5_estruturaderepeticaoearraysemjava._1_estruturaderepeticao.Ex2_Nota",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "edu.wesley._5_estruturaderepeticaoearraysemjava._1_estruturaderepeticao.Ex1_NomeEIdade",
+            "projectName": "DIO-iFoodJavaBeginners_6d4f16df"
+        },
+        {
+            "type": "java",
             "name": "Launch _1_ControleDeFluxo",
             "request": "launch",
             "mainClass": "edu.wesley._4_logicacondicionalcontroledefluxos._3_controledefluxo._1_ControleDeFluxo",
