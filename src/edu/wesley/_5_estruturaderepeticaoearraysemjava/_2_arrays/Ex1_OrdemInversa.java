@@ -7,7 +7,8 @@ import java.util.Scanner;
  * Crie um vetor de 6 números inteiros
  * e mostre-os na ordem inversa.
  * 
- * Ex.: 
+ * Ex.: Digitou: 1 2 3 4 5 6
+ *      Imprimir: 6 5 4 3 2 1
  * 
  * <p>
  * <b>Note:</b> Sempre leia atentamente a documentação!
